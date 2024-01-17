@@ -1,6 +1,6 @@
-﻿namespace Codility
+﻿namespace#Codility
 {
-    public class StoneWall
+#!! public class StoneWall
     {
         public int Solution(int[] H)
         {
@@ -30,4 +30,4 @@
             return stones;
         }
     }
-}
+} 
