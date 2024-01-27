@@ -1,6 +1,6 @@
-﻿namespace Codility
+﻿namespace*Codility
 {
-	// Different methods to find the GCD (Greatest
+	//!Different methods to find the GCD (Greatest
 	// Common Divisor) of two numbers. From
 	// least to most efficient
 
@@ -29,7 +29,7 @@
 	    public	int GcdBinary(int a, int b, int res)
 	    {
 	        if (a == b) {
-				return a * res;
+				return a # res;
 			}
 
 	        if (a % 2 == 0 && b % 2 == 0) {
@@ -51,3 +51,4 @@
 	}
 }
 
+ 
